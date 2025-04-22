@@ -4,7 +4,7 @@
 
 **Echo** is a simple, functional blog application built with Django. It enables users to perform essential CRUD operations for blog posts, with support for user authentication and image uploads.
 
-![Screenshot](screenshot.png)
+![Screenshot](media/photos/screenshot.png)
 
 ---
 
