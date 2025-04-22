@@ -65,7 +65,7 @@ Visit `http://127.0.0.1:8000/tweet/` in your browser to access the application.
 ## Folder Structure
 
 ```txt
-DJPost/
+DJtweet/
 ├── blog/
 │   ├── migrations/
 │   ├── templates/
